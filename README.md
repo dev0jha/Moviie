@@ -12,8 +12,8 @@ The **MovieRecommendationCLI** is a command-line application built with Python t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/dev0jha/MovieRecommendationCLI.git
-   cd MovieRecommendationCLI
+   git clone https://github.com/dev0jha/Moviie.git
+   cd Moviie
    ```
 2. **Install required dependencies:**
    ```bash
@@ -27,3 +27,4 @@ Run the CLI using:
 ```bash
 python main.py
 ```
+
